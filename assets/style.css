@@ -1,0 +1,15 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color:white;
+    text-align: center;
+}
+p {
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-style: italic;
+}
+
+h3 {
+    font-weight: 900;
+    font-style: oblique;
+}
