@@ -1,7 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+
 * {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: black;
-    background-color:white;
+    font-style: oblique;
+    color: rgb(84, 224, 239);
+    background-color:rgb(57, 55, 55);
     text-align: center;
 }
 p {
@@ -9,7 +14,30 @@ p {
    font-style: italic;
 }
 
+h1 {
+    text-shadow: 3px 4px 3px rgb(235, 110, 33);
+}
+
 h3 {
     font-weight: 900;
     font-style: oblique;
+    text-shadow: 1px 4px 3px rgb(235, 110, 33);
+      }
+
+ul {
+    list-style-type: none;
+}
+
+.button {
+    color: rgb(45, 166, 180);
+    
+}
+
+img {
+    box-shadow:  0px 0px 40px 15px rgb(235, 110, 33);
+    border-radius: 50%;
+}
+
+.section {
+    margin: 175px;
 }
